@@ -1,0 +1,2 @@
+name="danish"
+print(name)
